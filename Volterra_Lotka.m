@@ -13,7 +13,9 @@ plot(t,y)
 title('Poblacion Lobos/Presas')
 xlabel('t')
 ylabel('Poblacion')
-legend('Presas','Lobos')
+legend('Presas','Lobos') 
+
+%LA la almu
 
 %representacion diagrama de fases
 figure
